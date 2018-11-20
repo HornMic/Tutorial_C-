@@ -1,2 +1,2 @@
-# Tutorial_C-
-This Repository includes tutorials for c# projects
+# Tutorial_Java
+This Repository includes tutorials for JAVA projects
